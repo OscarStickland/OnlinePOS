@@ -1,4 +1,7 @@
+##THIS IS OLD
 # OnlinePOS
+
+
 A online Point of Sale system built in Django
 
 Test 1,
